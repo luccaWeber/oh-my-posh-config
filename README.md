@@ -23,9 +23,9 @@ A combinação ideal de funcionalidade e estilo para quem passa muitas horas no 
 
 No powershell execute: 
 ```bash
-oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/rhuancsg/oh-my-posh/main/minhaConfig.json' | iex
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/luccaWeber/oh-my-posh-config/main/night-owl.omp.json' | iex
 ```
 No bash execute:
 ``` bash
-eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/rhuancsg/oh-my-posh/main/minhaConfig.json')"
+eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/luccaWeber/oh-my-posh-config/main/night-owl.omp.json')"
 ```
