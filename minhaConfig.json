@@ -176,10 +176,5 @@
   ],
   "console_title_template": "{{ .HostName }}",
   "final_space": true,
-  "transient_prompt": {
-    "background": "transparent",
-    "foreground": "#d6deeb",
-    "template": "\ue285 "
-  },
   "version": 2
 }
