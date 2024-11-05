@@ -26,6 +26,15 @@ No powershell execute:
 oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/luccaWeber/oh-my-posh-config/main/minhaConfig.json' | iex
 ```
 No bash execute:
+
+```
+nano ~/.bashrc
+```
+
 ``` bash
 eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/luccaWeber/oh-my-posh-config/main/minhaConfig.json')"
+```
+
+```
+exec bash
 ```
