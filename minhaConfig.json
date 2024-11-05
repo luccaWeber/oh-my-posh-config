@@ -89,15 +89,6 @@
           "type": "shell"
         },
         {
-          "background": "#8f43f3",
-          "foreground": "#ffffff",
-          "leading_diamond": "\ue0b2",
-          "style": "diamond",
-          "template": "\ue266 {{ round .PhysicalPercentUsed .Precision }}% ",
-          "trailing_diamond": "<transparent,#8f43f3>\ue0b2</>",
-          "type": "sysinfo"
-        },
-        {
           "background": "#ffffff",
           "foreground": "#ce092f",
           "leading_diamond": "\ue0b2",
